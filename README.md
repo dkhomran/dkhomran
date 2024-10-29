@@ -16,7 +16,6 @@
 
 - Angular - React js | ts | Native
 - Laravel - Symfony - node js
-- Spring boot
 - Mysql - oracle - mongoDB
 ### ⚙️ Tech Stack
 
